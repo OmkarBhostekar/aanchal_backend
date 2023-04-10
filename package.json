@@ -21,7 +21,9 @@
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^7.0.1",
     "node-fetch": "^3.2.6",
-    "openai": "^3.2.1"
+    "openai": "^3.2.1",
+    "qrcode": "^1.5.1",
+    "speakeasy": "^2.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
